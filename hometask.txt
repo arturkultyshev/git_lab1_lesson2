@@ -1,2 +1,15 @@
 master and demo ничем не отличаются
+
 This branch is 6 commits ahead, 3 commits behind boots_buttons.
+
+Update hometask.txt
+
+adding master
+
+Merge branch 'boots_buttons'
+
+Merge remote-tracking branch 'origin/hat'
+ 
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+ 
+Merge remote-tracking branch 'origin/boots' into boots_buttons
